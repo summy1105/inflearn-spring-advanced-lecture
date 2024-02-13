@@ -1,4 +1,4 @@
-package hello.advanced.app.v1.v0;
+package hello.advanced.app.v0;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
